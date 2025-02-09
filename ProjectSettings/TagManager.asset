@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - guy
+  - food
+  - dead
+  - dog
+  - house
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Guys
+  - Water
+  - UI
+  - Houses
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Terrain
+    uniqueID: 1566024319
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Guys
+    uniqueID: 3076954699
+    locked: 0
+  m_RenderingLayers:
+  - Default
